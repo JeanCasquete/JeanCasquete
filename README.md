@@ -1,8 +1,8 @@
-# 💫 About Me:
-"Apasionado programador 🚀 | 22 años | 🇪🇨 Ecuador | <br>Desarrollando soluciones innovadoras con código limpio y eficiente. En busca de nuevos retos <br>y aprendizajes para seguir creciendo en el mundo de la tecnología. ¡Bienvenido/a a mi repositorio de ideas y proyectos! <br>💻🔧 #CodeCreator #OpenSourceEnthusiast"
+# 💫 Sobre mi:
+"Apasionado programador 🚀 | 22 años | 🇪🇨 Ecuador | <br>Estudiante de programación con muchas ganas de aprender y mejorar mis conocimientos. ¡Bienvenido/a a mi repositorio de ideas y proyectos! <br>💻🔧 #CodeCreator"
 
 
-## 🌐 Socials:
+## 🌐 Redes:
 <p align="left">
 <a href="https://twitter.com/jinpier_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jinpier_" height="30" width="40" /></a>
 </p>
